@@ -1,0 +1,9 @@
+@media (max-widht: 576px){
+    .bg-body-tertiary, p {
+    text-align: center;
+    }
+}
+
+h1, .carrusel, ul, footer {
+    margin: 20px 0px 20px 0px;
+}
